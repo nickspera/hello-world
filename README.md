@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 Hello there, my name is Nick Spera.
 Currently I am teaching myself, via Flatiron's FullStack software development bootcamp, to code!
